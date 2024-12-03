@@ -31,11 +31,6 @@ ScaffoldingReadMe.txt
 # User-specific files for Visual Studio
 .vs2019/
 
-# Windows image files (including icons)
-*.ico
-*.png
-*.jpg
-
 # Temporary files
 Thumbs.db
 Desktop.ini
