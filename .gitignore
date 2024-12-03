@@ -1,0 +1,53 @@
+# Ignore the build output directories
+bin/
+obj/
+
+# Ignore the user-specific files created by Visual Studio
+.vs/
+.vscode/
+.idea/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer folder
+installdir/
+
+# JetBrains Rider files
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User-specific files for Visual Studio
+.vs2019/
+
+# Windows image files (including icons)
+*.ico
+*.png
+*.jpg
+
+# Temporary files
+Thumbs.db
+Desktop.ini
+
+# Ignore temporary files from Visual Studio
+*.suo
+*.user
+*.userosscache
+*.dbmdl
+*.bak
+
+# Ignore the folder created for build configuration files
+.vs2019/
+.vs2017/
+.vs2015/
