@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DSM.Models.Categoria">
+    <Position X="9" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAQABAAEAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Models\Categoria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DSM.Models.Ingrediente">
+    <Position X="1" Y="0.75" Width="1.5" />
+    <AssociationLine Name="estoques" Type="DSM.Models.Estoque" FixedFromPoint="true">
+      <Path>
+        <Point X="2.188" Y="4.613" />
+        <Point X="2.188" Y="5.25" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.985" Y="0.247" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>EQABBAAAAAAAAAAQBAABAAAAAAAAABAAAAFABABAkAA=</HashCode>
+      <FileName>Models\Ingrediente.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="estoques" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="DSM.Models.IngredienteReceita">
+    <Position X="3.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAABAAAAAAAAAAAIgAAAEAAAAAAAAgAAAAAAAAEBEAA=</HashCode>
+      <FileName>Models\IngredienteReceita.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="ingrediente" />
+      <Field Name="receita" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="DSM.Models.Receita">
+    <Position X="6.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQABoAAAAAAAAAAYARABIAAAAAgAghgAAAEAAAAAEAA=</HashCode>
+      <FileName>Models\Receita.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="categoria" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="ingredientes" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="DSM.Models.Pedido">
+    <Position X="8.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAExAAIAAAAAAAEAAAAAAAIggBAAAAEACAAQAAEAAAA=</HashCode>
+      <FileName>Models\Pedido.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="receita" />
+      <Field Name="cliente" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="DSM.Models.Estoque">
+    <Position X="1" Y="5.25" Width="1.5" />
+    <AssociationLine Name="ingrediente" Type="DSM.Models.Ingrediente" FixedFromPoint="true">
+      <Path>
+        <Point X="1.25" Y="5.25" />
+        <Point X="1.25" Y="4.613" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.08" Y="0.252" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>EAARAAAAAAAAAAAIgAADAAAAAAAAAgAAAQIQACABEAA=</HashCode>
+      <FileName>Models\Estoque.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="ingrediente" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="DSM.Models.Cliente">
+    <Position X="10.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQABAgAAAAAAAIAQAAABACAAAAAAABAAAAEAAAAAAAA=</HashCode>
+      <FileName>Models\Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DSM.Models.ConversorMedidas">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Models\ConversorMedidas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DSM.Models.DBConnection">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Models\DBConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
