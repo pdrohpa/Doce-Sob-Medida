@@ -37,7 +37,7 @@ namespace DSM.Models
         {
             if (descricao.Length < 3)
                 throw new ArgumentException("A descrição deve possui no mínimo 3 caracteres");
-         
+
             this.descricao = descricao;
         }
     }
