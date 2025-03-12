@@ -25,7 +25,9 @@ O **Doce Sob Medida** oferece uma variedade de funcionalidades para auxiliar no 
 ## Como Usar
 
 Para utilizar o **Doce Sob Medida**, clone o repositório:
-
+**Clone o repositório**:
+   ```bash
+   git clpne https://github.com/markinog/Doce-Sob-Medida.git
 ## Contato
 
 Se você tiver alguma dúvida, sugestão ou quiser entrar em contato, sinta-se à vontade para nos enviar uma mensagem:
@@ -35,6 +37,4 @@ Se você tiver alguma dúvida, sugestão ou quiser entrar em contato, sinta-se �
 
 Estamos sempre abertos para feedback e colaborações! 😊
 
-**Clone o repositório**:
-   ```bash
-   git clpne https://github.com/markinog/Doce-Sob-Medida.git 
+ 
