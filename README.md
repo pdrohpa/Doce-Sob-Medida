@@ -4,7 +4,7 @@
 
 Desenvolvido com muito empenho, dedicação e amor, o **Doce Sob Medida** surgiu como uma solução para os problemas de organização e praticidade na utilização da tecnologia a favor do controle de estoque de produtos e criação de receitas.
 
-Este projeto foi desenvolvido na linguagem de programação **C#** com integração ao banco de dados **MySQL**, ambos inteiramente pensados, estruturados, desenvolvidos e finalizados por nós. O **Doce Sob Medida** é uma ferramenta voltada para autônomos locais que trabalham com estocagem de produtos/ingredientes e para aqueles que trabalham com receitas, visando proporcionar uma maior praticidade, agilidade e organização aos seus negócios.
+Este projeto foi desenvolvido na linguagem de programação **C#** com integração ao banco de dados **MySQL**. O **Doce Sob Medida** é uma ferramenta voltada para autônomos locais que trabalham com estocagem de produtos/ingredientes e para aqueles que trabalham com receitas, visando proporcionar uma maior praticidade, agilidade e organização aos seus negócios.
 
 ## Funcionalidades
 
