@@ -22,6 +22,7 @@ O **Doce Sob Medida** oferece uma variedade de funcionalidades para auxiliar no 
 - **Linguagem de Programação**: C#
 - **Banco de Dados**: MySQL
 
+## Contato
 Se você tiver alguma dúvida, sugestão ou quiser entrar em contato, sinta-se à vontade para nos enviar uma mensagem:
 
 - **E-mail**: [marcussla9@gmail.com](mailto:marcussla9@gmail.com)
