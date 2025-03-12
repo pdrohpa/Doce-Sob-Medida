@@ -36,5 +36,5 @@ Para utilizar o **Doce Sob Medida**, clone o repositório:
 **Clone o repositório**:
    ```bash
    git clone https://github.com/markinog/Doce-Sob-Medida.git
-## Contato
+
 
