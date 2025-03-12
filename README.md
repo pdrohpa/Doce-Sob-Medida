@@ -37,4 +37,4 @@ Estamos sempre abertos para feedback e colaborações! 😊
 
 **Clone o repositório**:
    ```bash
- git clone https://github.com/seu-usuario/doce-sob-medida.git 
+   git clpne https://github.com/markinog/Doce-Sob-Medida.git 
