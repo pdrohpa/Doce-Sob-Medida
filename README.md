@@ -31,7 +31,7 @@ Para utilizar o **Doce Sob Medida**, clone o repositório:
 Se você tiver alguma dúvida, sugestão ou quiser entrar em contato, sinta-se à vontade para nos enviar uma mensagem:
 
 - **E-mail**: [marcussla9@gmail.com](mailto:marcussla9@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/marcusgomess/)
+- **LinkedIn**:https://www.linkedin.com/in/marcusgomess/
 
 Estamos sempre abertos para feedback e colaborações! 😊
 
