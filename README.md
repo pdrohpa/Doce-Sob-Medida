@@ -22,14 +22,6 @@ O **Doce Sob Medida** oferece uma variedade de funcionalidades para auxiliar no 
 - **Linguagem de Programação**: C#
 - **Banco de Dados**: MySQL
 
-## Como Usar
-
-Para utilizar o **Doce Sob Medida**, clone o repositório:
-**Clone o repositório**:
-   ```bash
-   git clpne https://github.com/markinog/Doce-Sob-Medida.git
-## Contato
-
 Se você tiver alguma dúvida, sugestão ou quiser entrar em contato, sinta-se à vontade para nos enviar uma mensagem:
 
 - **E-mail**: [marcussla9@gmail.com](mailto:marcussla9@gmail.com)
@@ -37,4 +29,11 @@ Se você tiver alguma dúvida, sugestão ou quiser entrar em contato, sinta-se �
 
 Estamos sempre abertos para feedback e colaborações! 😊
 
- 
+## Como Usar
+
+Para utilizar o **Doce Sob Medida**, clone o repositório:
+**Clone o repositório**:
+   ```bash
+   git clone https://github.com/markinog/Doce-Sob-Medida.git
+## Contato
+
