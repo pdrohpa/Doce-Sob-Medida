@@ -25,8 +25,8 @@ O **Doce Sob Medida** oferece uma variedade de funcionalidades para auxiliar no 
 ## Contato
 Se você tiver alguma dúvida, sugestão ou quiser entrar em contato, sinta-se à vontade para nos enviar uma mensagem:
 
-- **E-mail**: [marcussla9@gmail.com](mailto:marcussla9@gmail.com)
-- **LinkedIn**:https://www.linkedin.com/in/marcusgomess/
+- **E-mail**: [pedrohe1712@gmail.com](mailto:pedrohe1712@gmail.com)
+- **LinkedIn**:[https://www.linkedin.com/in/pedro-henrique-pereira-de-almeida-b170b4327/]
 
 Estamos sempre abertos para feedback e colaborações! 😊
 
@@ -34,6 +34,6 @@ Estamos sempre abertos para feedback e colaborações! 😊
 
 Para utilizar o **Doce Sob Medida**, clone o repositório:
    ```bash
-   git clone https://github.com/markinog/Doce-Sob-Medida.git
+   git clone https://github.com/pdrohpa/Doce-Sob-Medida.git
 
 
